@@ -6,3 +6,4 @@ orange,
 red, 
 violet,
 green
+Tere are the colors of the rainbow
