@@ -1,9 +1,0 @@
-The rainbow the color of the rainbow is:
-pink,
-blue, 
-yellow, 
-orange,
-red, 
-violet,
-green
-Tere are the colors of the rainbow
